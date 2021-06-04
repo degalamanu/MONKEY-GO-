@@ -85,6 +85,6 @@ function ba(){
   banana.lifetime=-1
 }
 
-
-
+//{hello you can't copy my cde i youn will copy my code i will complaint yo the police}
+///jnk,nnmkhn,ih,hg,g,hg,jh,gh,,gb,g,j,u,, j,ug,gk,fk,fkgf.hf,hmhfhmv
 
