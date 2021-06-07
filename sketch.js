@@ -43,6 +43,7 @@ time = time + Math.round(frameCount %100===0);
 
   if(gameState===PLAY){
       if (keyDown("space")&& monkey.y >=200){
+         monkey.velocityX = monkey.velocityY + 9
     monkey.velocityY=-15
        Touches[]
   }
@@ -50,7 +51,7 @@ time = time + Math.round(frameCount %100===0);
       
      if (frameCount % 200===0){
     obs();
-       monkey.velocityY = monkey.velocityY + 9
+      
      }
        if(frameCount % 100===0){
          ba();
