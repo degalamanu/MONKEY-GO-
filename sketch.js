@@ -47,9 +47,10 @@ time = time + Math.round(frameCount %100===0);
        Touches[]
   }
   
-      monkey.velocityY = monkey.velocityY + 0.8
+      
      if (frameCount % 200===0){
     obs();
+       monkey.velocityY = monkey.velocityY + 9
      }
        if(frameCount % 100===0){
          ba();
