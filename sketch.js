@@ -44,7 +44,7 @@ time = time + Math.round(frameCount %100===0);
   if(gameState===PLAY){
       if (keyDown("space")&& monkey.y >=200){
          monkey.velocityX = monkey.velocityY + 9
-    monkey.velocityY=-15
+    monkey.velocityY=-30
        Touches[]
   }
   
